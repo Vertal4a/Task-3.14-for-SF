@@ -11,13 +11,19 @@ LICENSE: [MIT](license.md)
 
 ### Содержание:
   
-1. [git add](./add.md)
-2. [git commit](/commit.md)
-3. [git diff](/diff.md)
-4. [git status](/status.md)
-5. [git rm](/rm.md)
-6. [git mv](/mv.md)
-7. [git reset](/reset.md)
+1. Основные команды: 
++ [git add](./add.md)
++ [git commit](/commit.md)
++ [git status](/status.md)
++ [git rm](/rm.md)
++ [git mv](/mv.md)
++ [git reset](/reset.md)
+2. Команды ветвления и слияния: 
++ [git diff](/diff.md)
++ [git merge](/merge.md)
++ [git rebase](/rebase.md)
++ [git checkout](/checkout.md)
++ [git branch](/branch.md)
 
 ---
 Code Coding GIF By EscuelaDevRock - https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
